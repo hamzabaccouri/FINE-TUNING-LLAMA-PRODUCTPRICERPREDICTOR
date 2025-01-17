@@ -1,0 +1,11 @@
+datasets
+requests
+torch
+peft
+bitsandbytes
+transformers
+trl
+accelerate
+sentencepiece
+tiktoken
+matplotlib
